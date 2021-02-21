@@ -4,7 +4,7 @@ require_relative "lib/marking_module/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "marking-module"
-  spec.version       = Marking::Module::VERSION
+  spec.version       = MarkingModule::VERSION
   spec.authors       = ["nuclearnic"]
   spec.email         = ["nicholas@nuclearnic.net"]
 
